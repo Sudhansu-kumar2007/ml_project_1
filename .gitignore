@@ -150,6 +150,7 @@ activemq-data/
 *.sage.py
 
 # Environments
+.artifacts
 .env
 .envrc
 .venv
@@ -219,3 +220,4 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 ml_env1/
+
